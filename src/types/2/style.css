@@ -1,0 +1,24 @@
+header,
+footer {
+  background-color: #ffb700;
+  color: #fcfcfc;
+}
+
+header a:hover,
+header img:hover {
+  filter: brightness(5%);
+}
+
+h2,
+strong {
+  color: #ffb700;
+}
+
+.example_area img {
+  background: #ffb700;
+  border: solid 0.5vh #ffb700;
+}
+
+.text {
+  width: 50%;
+}
