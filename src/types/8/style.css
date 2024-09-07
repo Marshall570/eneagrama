@@ -9,6 +9,10 @@ header img:hover {
   filter: brightness(25%);
 }
 
+.banner > h1 {
+  text-shadow: none;
+}
+
 h2,
 strong {
   color: #0a0a0a;
